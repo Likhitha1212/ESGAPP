@@ -1,0 +1,58 @@
+body{
+    background-image: url('loginbg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    
+}
+.Container {
+    margin-top: 100px;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Box {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(255,255,255);
+    border-radius: 20px;
+    opacity: 65%;
+}
+
+.lc {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.name {
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#two_login{
+
+    display: flex;
+    direction: row;
+    margin-top: 0px;
+
+}
+
+#submit {
+    margin-top: 75px;
+    margin-left: 50px;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px;
+}
+
+#signup {
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 200px;
+    margin-left: 70px;
+}
+
+

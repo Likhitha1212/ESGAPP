@@ -1,0 +1,20 @@
+body{
+    background-image: url('esg_bgg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+
+.gap{
+    margin-right: 10px;
+}
+
+.gap:hover{
+    background-color: rgb(208, 201, 201);
+    border-radius: 10px;
+}
+
+.navbar-custom {
+	background-color: rgba(171, 173, 176, 0.5);
+    width: 2000px;
+}
